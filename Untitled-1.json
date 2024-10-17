@@ -1,0 +1,20 @@
+[
+    {   "nombre":"Santiago",
+    "apellido":"crivellaro",
+    "edad":15,
+    "lenguajes": ["Html",
+    "CSS",
+    "Javascript",
+    "PHP",
+    "Python"]
+    },
+    {   "nombre":"Mateo",
+    "apellido":"Guevara",
+    "edad":16,
+    "lenguajes": ["Html",
+    "CSS",
+    "Javascript",
+    "PHP",
+    "Python"]
+    }
+]
